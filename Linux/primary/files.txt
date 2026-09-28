@@ -1,9 +1,0 @@
-combine.txt
-files.txt
-new_file.txt
-script2.py
-script.py
-test2.txt
-test3.txt
-test.txt
-These are the files in my directory

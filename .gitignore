@@ -58,3 +58,9 @@ Linux/bash/kepler/kepler
 Linux/bash/curve/curve
 
 Fourier_Series/C/run
+
+# Personal/local project files
+primary/
+Python/no_jupyter.py
+Linux/primary/
+Linux/project/
