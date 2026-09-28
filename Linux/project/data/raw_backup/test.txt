@@ -1,0 +1,4 @@
+Hello, my name is Swaraj Jadhav. 
+I am a master's student at the Ludwig Maximilian University of Munich.
+I am trying line command on Linux for the first time.
+Servus !!

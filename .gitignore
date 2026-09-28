@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+
+# Secrets / environment files
+.env
+.env.*
+
+# Build / distribution
+build/
+dist/
+
+# Logs
+*.log
+
+# Local installers
+primary/Miniforge3-Linux-x86_64.sh
+
+# Compiled executables
+*.o
+*.out
+
+# Local compiled binaries
+computational_physics/01_numerical_basics/01_floating_points/double_vs_float_dir/float_vs_double
+computational_physics/01_numerical_basics/01_floating_points/floating_points_dir/floating_point
+computational_physics/01_numerical_basics/01_floating_points/floating_points_dir/addition
+computational_physics/02_linear_algebra/01_matrices/arrays
+computational_physics/02_linear_algebra/01_matrices/array_add
+
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/diff
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/limit
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/fxn
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/tan
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/sin_rad
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/sin_deg
+computational_physics/01_numerical_basics/02_numerical_differentiation/**/sine_curve
+
+Linux/bash/precession/precession
+Linux/bash/kepler/kelper
+Linux/bash/kepler/kepler
+Linux/bash/curve/curve
+
+Fourier_Series/C/run
